@@ -22,7 +22,7 @@ const iLoveTheBeatles = num => {
   
   do {
     tempArr.push(text);
-    i++;
+    num++;
   } while (i<15);
   
   return tempArr;
