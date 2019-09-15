@@ -15,3 +15,7 @@ const johnLennonFacts = arr => {
   }
   return arr;
 };
+
+const iLoveTheBeatles = num => {
+  let tempArr = [];
+}
