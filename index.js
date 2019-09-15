@@ -29,5 +29,3 @@ const iLoveTheBeatles = num => {
   }
   };
   
-  return tempArr;
-};
