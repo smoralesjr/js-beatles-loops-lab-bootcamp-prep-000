@@ -24,7 +24,7 @@ const iLoveTheBeatles = num => {
     do {
       tempArr.push(text);
       num++;
-    } while (i<15);
+    } while (num< num - 15);
     
   }
   };
