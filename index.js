@@ -19,11 +19,12 @@ const johnLennonFacts = arr => {
 const iLoveTheBeatles = num => {
   let tempArr = [];
   let text = 'I love the Beatles!';
+  
   if (num < 15){
-  do {
-    tempArr.push(text);
-    num++;
-  } while (i<15);
+    do {
+      tempArr.push(text);
+      num++;
+    } while (i<15);
     
   }
   };
