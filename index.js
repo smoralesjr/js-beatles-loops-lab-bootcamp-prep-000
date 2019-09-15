@@ -26,6 +26,6 @@ const iLoveTheBeatles = num => {
       num++;
     } while (num < 15 - num);
     
-  }
+  } return tempArr;
   };
   
