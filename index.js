@@ -19,7 +19,7 @@ const johnLennonFacts = arr => {
 const iLoveTheBeatles = num => {
   let tempArr = [];
   let text = 'I love the Beatles!';
-  let i = 0;
+  
   do {
     tempArr.push(text);
     i++;
