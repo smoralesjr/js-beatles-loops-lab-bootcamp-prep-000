@@ -10,7 +10,7 @@ const theBeatlesPlay = function(musicians, instruments){
 const johnLennonFacts = arr => {
   let i = 0;
   while (i < arr.length) {
-    arr[i] += arr[i] + '!!!';
+    arr[i] = arr[i] + '!!!';
   }
   return arr;
 };
