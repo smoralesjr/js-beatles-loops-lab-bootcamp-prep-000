@@ -1,4 +1,4 @@
 // add solution here
-var theBeatlesPlay = function(musicians, instruments){
-  
+const theBeatlesPlay = function(musicians, instruments){
+  const tempArr = [];
 };
