@@ -19,5 +19,7 @@ const johnLennonFacts = arr => {
 const iLoveTheBeatles = num => {
   let tempArr = [];
   let i = 0;
-  
+  do {
+    
+  } while (i<15);
 };
