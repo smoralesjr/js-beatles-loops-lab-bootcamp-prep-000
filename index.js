@@ -20,6 +20,6 @@ const iLoveTheBeatles = num => {
   let tempArr = [];
   let i = 0;
   do {
-    
+    tempArr[i] = 'I love the Beatles!';
   } while (i<15);
 };
