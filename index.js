@@ -18,5 +18,6 @@ const johnLennonFacts = arr => {
 
 const iLoveTheBeatles = num => {
   let tempArr = [];
+  let i = 0;
   
 };
