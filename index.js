@@ -18,9 +18,10 @@ const johnLennonFacts = arr => {
 
 const iLoveTheBeatles = num => {
   let tempArr = [];
+  let text = 'I love the Beatles!';
   let i = 0;
   do {
-    tempArr[i] = 'I love the Beatles!';
+    tempArr[i] = ;
     i++;
   } while (i<num -15);
   
