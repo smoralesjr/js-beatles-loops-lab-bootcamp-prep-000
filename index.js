@@ -21,5 +21,6 @@ const iLoveTheBeatles = num => {
   let i = 0;
   do {
     tempArr[i] = 'I love the Beatles!';
+    i++;
   } while (i<15);
 };
